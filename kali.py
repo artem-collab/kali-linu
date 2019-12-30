@@ -2,7 +2,7 @@ from random import choice
 from colorama import *
 from os import *
 from time import sleep
-system('cd /storage/emulated/0')
+system('cd /storage/emulated/0/Android')
 def kali():
     while True:
         kali=input(Fore.RED +'root@kali|> ')
